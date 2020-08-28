@@ -38,8 +38,8 @@ O Be The Hero é um projeto que visa conectar pessoas que desejam fazer contribu
 
 * Execute `npm install` nas pastas backend, frontend e mobile, para instalar as dependências.
 * Na pasta backend usar o comando `npm start`
-* Na pasta backend usar o comando `yarn start`
-* Na pasta backend usar o comando `expo start`
+* Na pasta web usar o comando `yarn start`
+* Na pasta mobile usar o comando `expo start`
 * Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
 ---
